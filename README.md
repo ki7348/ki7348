@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-3776AB?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-ffb13b?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javscript-007396?style=flat-square&logo=Javscript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Html-3776AB?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Css-ffb13b?style=flat-square&logo=Css&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-007396?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <h3 align="center">🍒 Me 🍒</h3>
 <p align="center">
   <a href="https://ki7348.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://ki7348.tistory.com/"/></a>&nbsp
-  <a href="mailto:rlawlsgh6306@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ehdrl9067@naver.com"/></a>
+  <a href="mailto:ehdrl9067@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ehdrl9067@gmail.com"/></a>
 </p>
 
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ki7348)](https://solved.ac/rlawlsgh6306)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ki7348)](https://solved.ac/ki7348)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ki7348)
 
