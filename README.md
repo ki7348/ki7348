@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Css-ffb13b?style=flat-square&logo=Css&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-007396?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-6DB33F?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🛠 Tools & Platforms 🛠</h3>
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naekang&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ki7348&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naekang&layout=compact)](https://github.com/naekang/github-readme-stats)
 
